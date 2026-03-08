@@ -1,0 +1,218 @@
+{
+  "Ashwini": {
+    "description": "Fast-moving, healing, beginnings. Associated with speed, vitality, and miraculous healing powers.",
+    "ruling_planet": "Ketu",
+    "zodiac_sign": "Aries",
+    "degree_range": "0-13:20 Aries",
+    "deity": "Ashwini Kumaras",
+    "qualities": "Swift action, courage, pioneering spirit"
+  },
+  "Bharani": {
+    "description": "Strong willpower, transformation. Represents the power of restraint and the cycle of birth and death.",
+    "ruling_planet": "Venus",
+    "zodiac_sign": "Aries",
+    "degree_range": "13:20-26:40 Aries",
+    "deity": "Yama",
+    "qualities": "Endurance, determination, creative power"
+  },
+  "Krittika": {
+    "description": "Fiery energy, truth-seeker, protector. Known for sharp intellect and purifying fire.",
+    "ruling_planet": "Sun",
+    "zodiac_sign": "Aries/Taurus",
+    "degree_range": "26:40 Aries - 10:00 Taurus",
+    "deity": "Agni",
+    "qualities": "Sharpness, leadership, spiritual fire"
+  },
+  "Rohini": {
+    "description": "Growth, beauty, creativity. The most fertile and productive nakshatra, associated with abundance.",
+    "ruling_planet": "Moon",
+    "zodiac_sign": "Taurus",
+    "degree_range": "10:00-23:20 Taurus",
+    "deity": "Brahma",
+    "qualities": "Charm, beauty, material prosperity"
+  },
+  "Mrigashira": {
+    "description": "Searching, curious, gentle. Represents the eternal quest for knowledge and truth.",
+    "ruling_planet": "Mars",
+    "zodiac_sign": "Taurus/Gemini",
+    "degree_range": "23:20 Taurus - 6:40 Gemini",
+    "deity": "Soma",
+    "qualities": "Curiosity, exploration, gentleness"
+  },
+  "Ardra": {
+    "description": "Storm, transformation, renewal. Associated with destruction that leads to fresh beginnings.",
+    "ruling_planet": "Rahu",
+    "zodiac_sign": "Gemini",
+    "degree_range": "6:40-20:00 Gemini",
+    "deity": "Rudra",
+    "qualities": "Intensity, transformation, intellectual power"
+  },
+  "Punarvasu": {
+    "description": "Renewal, restoration, return. Represents the power of regeneration and coming home.",
+    "ruling_planet": "Jupiter",
+    "zodiac_sign": "Gemini/Cancer",
+    "degree_range": "20:00 Gemini - 3:20 Cancer",
+    "deity": "Aditi",
+    "qualities": "Optimism, renewal, spiritual wisdom"
+  },
+  "Pushya": {
+    "description": "Nourishment, prosperity, auspiciousness. Considered the most favorable nakshatra for spiritual growth.",
+    "ruling_planet": "Saturn",
+    "zodiac_sign": "Cancer",
+    "degree_range": "3:20-16:40 Cancer",
+    "deity": "Brihaspati",
+    "qualities": "Nurturing, protection, spiritual strength"
+  },
+  "Ashlesha": {
+    "description": "Mystical, serpentine, hypnotic. Associated with kundalini energy and deep mystical powers.",
+    "ruling_planet": "Mercury",
+    "zodiac_sign": "Cancer",
+    "degree_range": "16:40-30:00 Cancer",
+    "deity": "Nagas",
+    "qualities": "Mysticism, intuition, hypnotic charm"
+  },
+  "Magha": {
+    "description": "Royal, ancestral, powerful. Connected to royal lineage, authority, and ancestral blessings.",
+    "ruling_planet": "Ketu",
+    "zodiac_sign": "Leo",
+    "degree_range": "0-13:20 Leo",
+    "deity": "Pitris (Ancestors)",
+    "qualities": "Authority, tradition, ancestral power"
+  },
+  "Purva Phalguni": {
+    "description": "Creativity, enjoyment, relaxation. Represents the fruits of good karma and creative expression.",
+    "ruling_planet": "Venus",
+    "zodiac_sign": "Leo",
+    "degree_range": "13:20-26:40 Leo",
+    "deity": "Bhaga",
+    "qualities": "Romance, creativity, luxury"
+  },
+  "Uttara Phalguni": {
+    "description": "Friendship, generosity, patronage. Known for strong partnerships and leadership through service.",
+    "ruling_planet": "Sun",
+    "zodiac_sign": "Leo/Virgo",
+    "degree_range": "26:40 Leo - 10:00 Virgo",
+    "deity": "Aryaman",
+    "qualities": "Friendship, reliability, service"
+  },
+  "Hasta": {
+    "description": "Skillful, clever, dexterous. Associated with craftsmanship, healing hands, and practical skills.",
+    "ruling_planet": "Moon",
+    "zodiac_sign": "Virgo",
+    "degree_range": "10:00-23:20 Virgo",
+    "deity": "Savitar",
+    "qualities": "Skill, craftsmanship, wit"
+  },
+  "Chitra": {
+    "description": "Brilliant, creative, artistic. Represents the divine architect and creative brilliance.",
+    "ruling_planet": "Mars",
+    "zodiac_sign": "Virgo/Libra",
+    "degree_range": "23:20 Virgo - 6:40 Libra",
+    "deity": "Vishwakarma",
+    "qualities": "Artistry, beauty, architectural skill"
+  },
+  "Swati": {
+    "description": "Independent, flexible, gentle. Like the wind, represents freedom, independence, and adaptability.",
+    "ruling_planet": "Rahu",
+    "zodiac_sign": "Libra",
+    "degree_range": "6:40-20:00 Libra",
+    "deity": "Vayu",
+    "qualities": "Independence, flexibility, diplomacy"
+  },
+  "Vishakha": {
+    "description": "Determined, goal-oriented, powerful. Represents single-pointed focus and the power to achieve goals.",
+    "ruling_planet": "Jupiter",
+    "zodiac_sign": "Libra/Scorpio",
+    "degree_range": "20:00 Libra - 3:20 Scorpio",
+    "deity": "Indra-Agni",
+    "qualities": "Determination, ambition, triumph"
+  },
+  "Anuradha": {
+    "description": "Devotion, friendship, success. Known for deep devotion, organizational skills, and spiritual discipline.",
+    "ruling_planet": "Saturn",
+    "zodiac_sign": "Scorpio",
+    "degree_range": "3:20-16:40 Scorpio",
+    "deity": "Mitra",
+    "qualities": "Devotion, friendship, discipline"
+  },
+  "Jyeshtha": {
+    "description": "Senior, chief, protective. Represents seniority, authority, and protective power.",
+    "ruling_planet": "Mercury",
+    "zodiac_sign": "Scorpio",
+    "degree_range": "16:40-30:00 Scorpio",
+    "deity": "Indra",
+    "qualities": "Authority, protection, courage"
+  },
+  "Moola": {
+    "description": "Root, foundation, destruction. Associated with uprooting the old to create space for new growth.",
+    "ruling_planet": "Ketu",
+    "zodiac_sign": "Sagittarius",
+    "degree_range": "0-13:20 Sagittarius",
+    "deity": "Nirriti",
+    "qualities": "Investigation, research, transformation"
+  },
+  "Purva Ashadha": {
+    "description": "Invincible, victorious, purifying. Represents invincibility and the power of declaration.",
+    "ruling_planet": "Venus",
+    "zodiac_sign": "Sagittarius",
+    "degree_range": "13:20-26:40 Sagittarius",
+    "deity": "Apas (Water deity)",
+    "qualities": "Victory, courage, purification"
+  },
+  "Uttara Ashadha": {
+    "description": "Universal, final victory, leadership. Represents ultimate triumph and universal goals.",
+    "ruling_planet": "Sun",
+    "zodiac_sign": "Sagittarius/Capricorn",
+    "degree_range": "26:40 Sagittarius - 10:00 Capricorn",
+    "deity": "Vishvedevas",
+    "qualities": "Leadership, universality, final victory"
+  },
+  "Shravana": {
+    "description": "Listening, learning, connection. Associated with deep listening, knowledge, and cosmic connection.",
+    "ruling_planet": "Moon",
+    "zodiac_sign": "Capricorn",
+    "degree_range": "10:00-23:20 Capricorn",
+    "deity": "Vishnu",
+    "qualities": "Learning, listening, perseverance"
+  },
+  "Dhanishtha": {
+    "description": "Wealth, music, prosperity. Known for musical talent, prosperity, and group harmony.",
+    "ruling_planet": "Mars",
+    "zodiac_sign": "Capricorn/Aquarius",
+    "degree_range": "23:20 Capricorn - 6:40 Aquarius",
+    "deity": "Vasus",
+    "qualities": "Wealth, rhythm, adaptability"
+  },
+  "Shatabhisha": {
+    "description": "Hundred healers, mystical, secretive. Associated with healing, mysticism, and hidden knowledge.",
+    "ruling_planet": "Rahu",
+    "zodiac_sign": "Aquarius",
+    "degree_range": "6:40-20:00 Aquarius",
+    "deity": "Varuna",
+    "qualities": "Healing, mystery, independence"
+  },
+  "Purva Bhadrapada": {
+    "description": "Scorching, fierce, transformative. Represents the fire of spiritual transformation and penance.",
+    "ruling_planet": "Jupiter",
+    "zodiac_sign": "Aquarius/Pisces",
+    "degree_range": "20:00 Aquarius - 3:20 Pisces",
+    "deity": "Aja Ekapada",
+    "qualities": "Intensity, penance, spiritual fire"
+  },
+  "Uttara Bhadrapada": {
+    "description": "Deep, wise, controlled. Represents the depth of the cosmic ocean and spiritual wisdom.",
+    "ruling_planet": "Saturn",
+    "zodiac_sign": "Pisces",
+    "degree_range": "3:20-16:40 Pisces",
+    "deity": "Ahir Budhnya",
+    "qualities": "Wisdom, depth, spiritual control"
+  },
+  "Revati": {
+    "description": "Nourishing, prosperous, journey's end. The final nakshatra, representing completion and safe travel.",
+    "ruling_planet": "Mercury",
+    "zodiac_sign": "Pisces",
+    "degree_range": "16:40-30:00 Pisces",
+    "deity": "Pushan",
+    "qualities": "Nourishment, prosperity, safe journeys"
+  }
+}

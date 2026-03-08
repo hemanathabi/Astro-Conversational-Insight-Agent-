@@ -1,0 +1,74 @@
+{
+  "Sun": {
+    "description": "Represents identity, ego, self-expression and vitality. The Sun is the core of your being, governing willpower, authority, and life purpose.",
+    "nature": "benefic",
+    "affects": ["career", "identity", "health", "leadership"],
+    "zodiac_rulership": "Leo",
+    "vedic_name": "Surya",
+    "remedies": "Offer water to the Sun at sunrise. Chant Aditya Hridayam. Wear Ruby gemstone."
+  },
+  "Moon": {
+    "description": "Represents emotions, inner world, intuition and nurturing energy. The Moon governs your mind, feelings, and emotional responses.",
+    "nature": "benefic",
+    "affects": ["emotions", "love", "mental_health", "intuition"],
+    "zodiac_rulership": "Cancer",
+    "vedic_name": "Chandra",
+    "remedies": "Meditate during full moon. Wear Pearl gemstone. Offer milk to Shiva Linga on Mondays."
+  },
+  "Mars": {
+    "description": "Represents ambition, drive, assertiveness and conflict. Mars is the warrior planet that fuels courage, energy, and determination.",
+    "nature": "malefic",
+    "affects": ["career", "conflict", "energy", "courage"],
+    "zodiac_rulership": "Aries",
+    "vedic_name": "Mangal",
+    "remedies": "Chant Hanuman Chalisa on Tuesdays. Wear Red Coral. Donate red lentils."
+  },
+  "Venus": {
+    "description": "Represents love, harmony, relationships and art. Venus governs beauty, pleasure, romance, and material comforts.",
+    "nature": "benefic",
+    "affects": ["love", "relationships", "art", "luxury"],
+    "zodiac_rulership": "Taurus",
+    "vedic_name": "Shukra",
+    "remedies": "Wear Diamond or Opal. Donate white clothes on Fridays. Practice gratitude in relationships."
+  },
+  "Mercury": {
+    "description": "Represents communication, logic, travel and intelligence. Mercury governs speech, learning, analytical thinking, and commerce.",
+    "nature": "benefic",
+    "affects": ["communication", "career", "intelligence", "travel"],
+    "zodiac_rulership": "Gemini",
+    "vedic_name": "Budh",
+    "remedies": "Wear Emerald gemstone. Chant Vishnu Sahasranama on Wednesdays. Feed green vegetables to cows."
+  },
+  "Jupiter": {
+    "description": "Represents wisdom, growth, fortune and knowledge. Jupiter is the great benefic, bringing expansion, luck, and spiritual growth.",
+    "nature": "benefic",
+    "affects": ["wisdom", "career", "spiritual", "fortune"],
+    "zodiac_rulership": "Sagittarius",
+    "vedic_name": "Guru/Brihaspati",
+    "remedies": "Wear Yellow Sapphire. Visit temples on Thursdays. Respect and serve your teachers and elders."
+  },
+  "Saturn": {
+    "description": "Represents discipline, responsibility, boundaries and lessons. Saturn is the taskmaster who teaches through challenges and rewards through perseverance.",
+    "nature": "malefic",
+    "affects": ["career", "discipline", "challenges", "karma"],
+    "zodiac_rulership": "Capricorn",
+    "vedic_name": "Shani",
+    "remedies": "Donate black sesame seeds on Saturdays. Chant Shani Mantra. Serve the poor and elderly."
+  },
+  "Rahu": {
+    "description": "Represents obsession, illusion, worldly desires, and unconventional paths. Rahu amplifies whatever it touches and creates sudden changes.",
+    "nature": "malefic",
+    "affects": ["career", "obsession", "foreign_travel", "innovation"],
+    "zodiac_rulership": null,
+    "vedic_name": "Rahu",
+    "remedies": "Donate to orphanages. Chant Rahu Beej Mantra. Wear Hessonite Garnet (Gomed)."
+  },
+  "Ketu": {
+    "description": "Represents spirituality, detachment, past-life karma, and liberation. Ketu brings spiritual insight but also confusion and loss.",
+    "nature": "malefic",
+    "affects": ["spiritual", "detachment", "past_karma", "liberation"],
+    "zodiac_rulership": null,
+    "vedic_name": "Ketu",
+    "remedies": "Donate blankets to the needy. Chant Ketu Beej Mantra. Wear Cat's Eye gemstone."
+  }
+}
